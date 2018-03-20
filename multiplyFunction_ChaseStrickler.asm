@@ -3,11 +3,11 @@
 #6 October 2017
 
 .data
-      multiplicand: .word 5
-      multiplier: .word 3
-      times: .asciiz " times "
-      is: .asciiz " is "
-      newLine: .asciiz ".\n"
+      multiplicand:     .word 5
+      multiplier:       .word 3
+      times:            .asciiz " times "
+      is:               .asciiz " is "
+      newLine:          .asciiz ".\n"
 
 .text
 
